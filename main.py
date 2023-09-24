@@ -212,6 +212,19 @@ def main():
     print_board(board)
     game_over = False
 
+    difficulty = input("Choose a difficulty level (easy, medium, hard): ").lower()
+
+    if difficulty not in ["easy", "medium", "hard"]:
+        print("Invalid difficulty level. Please choose from 'easy', 'medium', or 'hard'.")
+        return
+
+    if difficulty == "easy":
+        max_depth = 1
+    elif difficulty == "medium":
+        max_depth = 3
+    elif difficulty == "hard":
+        max_depth = 5
+
     turn = random.randint(PLAYER, AI)
 
     while not game_over:
