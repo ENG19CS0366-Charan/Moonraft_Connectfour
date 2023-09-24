@@ -5,7 +5,7 @@ This code implements a Connect Four game with an bot opponent. Connect Four is a
 
 
 
-## Game Setup
+## Game
 
 The game is played on a 6x7 grid. 
 
@@ -15,10 +15,11 @@ To make a move, input a column number (1-7) where you want to drop your disc.
 
 To know if you won the match either "❌" (red) /  "🔵" (blue) will be turned into 😍(Smiling Face With Heart-Shaped Eyes emoji)
 
-## Acknowledgements
+## How To
 
  - Install the numpy, sys, math library's
-  - Execute the code mentioned in [main.py](https://github.com/ENG19CS0366-Charan/Moonraft_Connectfour/blob/main/main.py).
+ - Execute the code mentioned in [main.py](https://github.com/ENG19CS0366-Charan/Moonraft_Connectfour/blob/main/main.py).
+ - Select the Choose a difficulty level (easy, medium, hard)
  - The game will randomly select the starting player.
  - Follow the on-screen instructions to make your moves.
  - The game will display the board after each move and announce the winner when a winning combination is achieved.
