@@ -233,7 +233,7 @@ def main():
             col = int(input("Player's turn (1-7): "))
             col -= 1
             print()
-            if is_valid_location(board, col):
+            if 0 <= col < COLUMN_COUNT and is_valid_location(board, col):
                 row = get_next_open_row(board, col)
                 drop_piece(board, row, col, PLAYER_PIECE)
 
