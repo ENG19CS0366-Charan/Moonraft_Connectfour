@@ -30,9 +30,9 @@ To know if you won the match either "❌" (red) /  "🔵" (blue) will be turned 
 
 ## Output
 
-![Screenshot 2023-09-25 044942](https://github.com/ENG19CS0366-Charan/Moonraft_Connectfour/assets/76121422/976c6a2a-db29-48ff-8cc6-895fe75a2d64)
+![image](https://github.com/ENG19CS0366-Charan/Moonraft_Connectfour/assets/76121422/f7f3e0d2-6c3c-4087-9ace-8d25c8ec7d85)
 
-![image](https://github.com/ENG19CS0366-Charan/Moonraft_Connectfour/assets/76121422/b88dcc7f-ba01-4c8a-8574-0bb6a6314a3f)
+![image](https://github.com/ENG19CS0366-Charan/Moonraft_Connectfour/assets/76121422/3268b8b8-ebcb-43d5-bd03-2362498d594b)
 
 
 
