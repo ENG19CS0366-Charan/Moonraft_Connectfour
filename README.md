@@ -27,8 +27,7 @@ To know if you won the match either "❌" (red) /  "🔵" (blue) will be turned 
 
 
 
-
-## Output
+## Let's see if we won or lost?
 
 ![image](https://github.com/ENG19CS0366-Charan/Moonraft_Connectfour/assets/76121422/f7f3e0d2-6c3c-4087-9ace-8d25c8ec7d85)
 
