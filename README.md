@@ -35,4 +35,9 @@ To know if you won the match either "❌" (red) /  "🔵" (blue) will be turned 
 ![image](https://github.com/ENG19CS0366-Charan/Moonraft_Connectfour/assets/76121422/3268b8b8-ebcb-43d5-bd03-2362498d594b)
 
 
+## What about difficulty level Medium & Hard?
+- I've struggled so hard with the easy level, if i wanted to try out medium & hard I'am gonna quit this.
+
+
+
 
