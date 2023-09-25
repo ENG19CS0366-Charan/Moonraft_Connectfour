@@ -36,7 +36,7 @@ To know if you won the match either "❌" (red) /  "🔵" (blue) will be turned 
 
 
 ## What about difficulty level Medium & Hard?
-- I've struggled so hard with the easy level, if i wanted to try out medium & hard I'am gonna quit this.
+- I've struggled so hard with the easy level, if i wanted to try out medium & hard I'am gonna quit this. 🤧
 
 
 
